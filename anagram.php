@@ -1,5 +1,6 @@
 <?php 
 
+
 class Anagram {
 
     public function check_anagram($string1,$string2){
