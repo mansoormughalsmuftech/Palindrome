@@ -1,5 +1,6 @@
 <?php
 
+
 echo "First Method Palindrome check!";
 echo '<br>';
 $word = "burj";
