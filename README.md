@@ -1,1 +1,1 @@
-These are 2 methods for checking a palindrome in php. First method uses a loop and implode function and the second method uses the strrev() which is php default method for reversing a string.
+This repository contains all the simple codes for php
